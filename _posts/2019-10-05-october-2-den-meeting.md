@@ -1,5 +1,9 @@
-# Bear Den Meeting 10/2/2019
-
+---
+layout: post
+title:  "October 2 Den Meeting"
+date:   2019-10-05 14:42:22 -0400
+categories: jekyll update
+--- 
 ## Materials
 - Need flag for pledge
 - S'more stuff

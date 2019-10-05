@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Bear Picnic Basket - Meeting 1"
+title:  "October 9 Den Meeting"
 date:   2019-10-05 14:42:22 -0400
 categories: jekyll update
 ---
 
-# Bear Den Meeting 10/9/2019
-Materials:
+## Materials:
 - Copies of [MyPlate Sheet](https://choosemyplate-prod.azureedge.net/sites/default/files/tentips/ColoringSheet_0.pdf)
 - Cordage for 2 Two Half Hitches (req. 5)
 
@@ -15,7 +14,7 @@ Materials:
 - Requirement 5: Demonstrate how to tie two half hitches. Explain what it is used for.
 
 ## Bear Picnic Basket
-### Complete at least three of the following.
+### Complete at least three of the following:
 1. Create your own Bear cookbook using at least five recipes you might cook or prepare either on your own or with some adult help. Include at least one recipe each for breakfast, 
 2. With a family member or den leader, prepare for cooking by explaining the importance of planning, tool selection, sanitation, and cooking safety.
 3. Select and prepare two nutritious snacks for yourself, your family, or your den.
