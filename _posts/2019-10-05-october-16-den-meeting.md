@@ -6,10 +6,10 @@ categories: jekyll update
 ---
 
 ## Materials:
-### Den Leader
-- Coleman stove
-- Whisperlite
-- Pocket rocket and fuel
+- Construction paper or white paper
+- Stapler
+- Pencils
+- Scout cookbook (Elliott will bring)
   
 ## Bear Picnic Basket
 ### Complete at least three of the following.
@@ -20,7 +20,14 @@ categories: jekyll update
 5. With the help of an adult, select a recipe to prepare in the outdoors for your family or den. Help to select the needed ingredients, perhaps from a garden, grocery store, or farmers' market. Cook and serve your planned meal. Clean up after the preparation.
 
 ## Activities
-### Activity 1: Discuss Cooking Planning, Tools, Sanitation, Safety (Requirement 2)
+
+### Activity 1: Create Your Bear Cookbook (Requirement 1)
+- Pick five recipes from online or from a cookbook.
+- Copy down the ingredients, measurements, and steps onto your papers folded and stapled into a book.
+- Include at least one recipe for breakfast.
+- Note: if you did your homework and already have a Bear Cookbook, then help another scout with his. A Scout is Helpful and Kind!
+
+### Activity 2: Discuss Cooking Planning, Tools, Sanitation, Safety (Requirement 2)
 1. Why is planning important?
     - Prep and cooking goes faster
     - Cost considerations
@@ -30,10 +37,7 @@ categories: jekyll update
     - If going on an outing, consider appropriate recipes of conditions and facilities
     - Waste disposal: considerations, disposal method, trash bags/cans, recycling
 2. What tools, equipment, and supplies are needed for cooking?
-   - Heat source: Demonstration of examples of camping stoves
-     - Coleman two burner stove
-     - MSR Whisperlite (White gas)
-     - MSR Pocket Rocket
+   - Heat source
    - Pots/pans
    - Cooking utensils
    - Ingredients
@@ -45,8 +49,8 @@ categories: jekyll update
    - Foods that need to be kept cool 
    - Clean pots/pans, utensils, mess kits. How? What is needed?
 
-### Activity 2: Plan next week's Den Meal!
-- Will meet again at my house and cook dinner together.
+### Activity 3: Plan next week's Den Meal!
+- Will meet again at Mr. Todd's house and cook dinner together.
 - What will we cook?
   - Each scout nominates their favorite recipe from his recipe book.
 - Who will bring what?
@@ -54,7 +58,7 @@ categories: jekyll update
 
 ## For next Week: 
 - Remember mess kits
-- I will email out to parents what is needed, respond back with what you will bring
+- Den leaders will email out to parents what is needed, respond back with what you will bring
 - Go shopping with your parent!
 - Prepare something to do with cooking or eating outdoors to put on the spirit stick
 
