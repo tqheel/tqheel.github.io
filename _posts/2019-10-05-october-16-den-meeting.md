@@ -46,7 +46,7 @@ categories: jekyll update
    - Clean pots/pans, utensils, mess kits. How? What is needed?
 
 ### Activity 2: Plan next week's Den Meal!
-- Will meet again at my house and 
+- Will meet again at my house and cook dinner together.
 - What will we cook?
   - Each scout nominates their favorite recipe from his recipe book.
 - Who will bring what?
