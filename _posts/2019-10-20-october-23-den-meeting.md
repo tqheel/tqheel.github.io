@@ -1,6 +1,8 @@
 # Bear Den Meeting 10/16/2019
 ## Materials:
 ### Den Leader
+- Leftovers from camping trip
+- Cooking equipment and fuel
 
 ### Parents
 - Mess kit (plate/bowl and utensils)
