@@ -2,7 +2,6 @@
 layout: post
 title:  "November 6 Den Meeting"
 date:   2019-11-03 14:42:22 -0400
-categories: jekyll update
 ---
 
 ## Scout Preparations for the Meeting
