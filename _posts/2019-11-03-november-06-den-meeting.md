@@ -16,7 +16,7 @@ Be prepared to discuss your selected animals for requirement 3, listed below.
 Draw a picture of one or both of your extinct or endangered animals.
 
 ## Fur, Feathers, and Ferns Wrap-Up (started on fall camping trip)
-### We will be working on requirements three and 6 this week
+### We will be working on requirements three and six this week
 Complete requirement 1 plus three others
 1. While hiking or walking for one mile, identify six signs that any mammals, birds, insects, reptiles, or plants are living near the place where you choose to hike or walk. **(Complete for those who attended camping trip)**
 2. Visit one of the following: zoo, wildlife refuge, nature center, aviary, game preserve, local conservation area, wildlife rescue group, or fish hatchery. Describe what you learned during your visit.
@@ -27,13 +27,12 @@ Complete requirement 1 plus three others
 7. Plant a vegetable or herb garden.
 
 ## Opening
-## Opening
 - Pledge of Allegiance
 - Scout Oath
 - Scout Law 
   
 ## Talk Time
-- If you were not on the camping trip then, please work with your patent on Fur, Feathers, and Fur, requirements 1 and 5 on your own and let me or Stephen know when they are complete.
+- If you were not on the camping trip then, please work with your parent on Fur, Feathers, and Fur, requirements 1 and 5 on your own and let me or Stephen know when they are complete. Since requirement 5 is optional, feel free to do 2, 4. or 7 instead.
 - Next adventure will be Baloo the Builder, where we will be learning about using hand tools to do projects with wood. Our project will be helping to create the trophies for the Pinewood Derby.
 - Next adventure after Baloo the Builder will be Bear Claws (pocket knives).
 - Pack hike coming up on 11/16 at Horton nature Preserve.
