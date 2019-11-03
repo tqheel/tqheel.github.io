@@ -32,10 +32,10 @@ Complete requirement 1 plus three others
 - Scout Law 
   
 ## Talk Time
-- If you were not on the camping trip then, please work with your parent on Fur, Feathers, and Fur, requirements 1 and 5 on your own and let me or Stephen know when they are complete. Since requirement 5 is optional, feel free to do 2, 4. or 7 instead.
+- If you were not on the camping trip then, please work with your parent on Fur, Feathers, and Fur, requirements 1 and 5 on your own and let me or Stephen know when they are complete. Since requirement 5 is optional, feel free to do 2, 4, or 7 instead.
 - Next adventure will be Baloo the Builder, where we will be learning about using hand tools to do projects with wood. Our project will be helping to create the trophies for the Pinewood Derby.
 - Next adventure after Baloo the Builder will be Bear Claws (pocket knives).
-- Pack hike coming up on 11/16 at Horton nature Preserve.
+- Pack hike coming up on 11/16 at [Horton Grove Nature Preserve](https://www.triangleland.org/explore/nature-preserves/horton-grove-nature-preserve).
 
 ## Activities
 1. Discuss extinct and endangered species (requirement 3, page 95 in Bear book).
@@ -43,3 +43,4 @@ Complete requirement 1 plus three others
    - [Watch Video 1](https://www.youtube.com/watch?v=dRXNo7Ieky8)
    - [Watch Video 2](https://video.nationalgeographic.com/video/green-guide-howdini/00000144-0a2d-d3cb-a96c-7b2d91870000)
 3. Review stretching exercises as prep for hiking from requirement 1 (page 89, if time allows).
+s
