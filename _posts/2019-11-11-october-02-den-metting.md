@@ -42,7 +42,7 @@ family can determine the emergency, or you can develop several plans.**
 ## Talk Time
 - November Pack meeting next week (11/20).
 - Pack hike coming up on 11/16 at [Horton Grove Nature Preserve](https://www.triangleland.org/explore/nature-preserves/horton-grove-nature-preserve).
-- Remember to work on Duty to God (we need to make sure anyone who had finished is submitted in Scoutbook by Sunday night(,))
+- Remember to work on Duty to God (we need to make sure anyone who had finished is submitted in Scoutbook by Sunday night).
 
 ## Activities
 1. Learn about the US flag, say Pledge of Allegiance and discuss its meaning (requirement 1).
