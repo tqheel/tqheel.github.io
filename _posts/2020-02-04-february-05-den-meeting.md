@@ -16,13 +16,13 @@ Complete the following requirements.
 1. **Learn about three common designs of pocketknives.**
 2. **Learn knife safety and earn your Whittling Chip.** *
 3. Do one of the following:
-    a. Using a pocketknife, carve two items
-    b. With a pocketknife, safely perform each of these tasks:
-    - Demonstrate how to cut a piece of rope, twine, or fishing line.
-    - Open a sealed box without damaging the contents.
-    - Open a can with the can opener tool on a pocketknife
-    - Remove and replace the screws on an object with the screwdriver tool on a pocketknife.
-    - Open a letter.
+    - a. Using a pocketknife, carve two items
+    - b. With a pocketknife, safely perform each of these tasks:
+      - Demonstrate how to cut a piece of rope, twine, or fishing line.
+      - Open a sealed box without damaging the contents.
+      - Open a can with the can opener tool on a pocketknife
+      - Remove and replace the screws on an object with the screwdriver tool on a pocketknife.
+      - Open a letter.
 
 ## Opening
 1. Pledge of Allegiance
