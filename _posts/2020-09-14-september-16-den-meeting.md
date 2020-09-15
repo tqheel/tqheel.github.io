@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "September 16b Den Meeting: Casr Iron Chef I"
+title: "September 16 Den Meeting: Cast Iron Chef I"
 ---
 
-## Location: Sears Farm Park (5077 Sears Farm Road; Cary), 7:00 PM
+## Location: Sears Farm Park (5077 Sears Farm Road, Cary), 7:00 PM
 
 ## Opening
 
 1. Scout Oath, Scout Law
 2. Has anyone lived the Scout Law since our last meeting?
 
-## Talk TIme
+## Talk Time
 
-1. Popcorn official kickoff starts this Friday, September 18. You can start selling online now. Checkout Sean'Gill's presentation from last week for some awesome ideas even if you choose to not go dorr-to-door.
-2. This week, we will be talking about meal planning for your family. Our goal is to review the meals you planned, shoped for and cooked at next week's meeting. It is preferred that Scouts cook outdoors, but it is not required.
+1. Popcorn official kickoff starts this Friday, September 18. You can start selling online now. Checkout Sean Gill's presentation from last week for some awesome ideas even if you choose to not go door-to-door.
+2. This week, you should be planning and shopping for your meal that you will prepare for your family. Our goal is to review the meals you planned, shopped for and cooked at next week's meeting. It is preferred that Scouts cook outdoors, but it is not required.
 3. Start thinking about ideas for where we could go camping as a den.
 
 ## Activity 1
@@ -30,8 +30,12 @@ Review of Bobcat Requirements
 
 ## Activity 2
 
+Review cooking safety (leader manual page 40).
+
+## Activity 3
+
 Demonstration of Camp Cooking Equipment
 
 1. Coleman Two-Burner Stove (propane)
-2. MSR Pocket Rocket (isobutane)
+2. MSR Pocket Rocket (isobutane-propane)
 3. MSR Whisper Lite (white gas)
