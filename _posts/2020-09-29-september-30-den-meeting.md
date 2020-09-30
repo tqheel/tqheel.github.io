@@ -31,4 +31,4 @@ Each Scout should be prepared to talk about what meal they planned and prepared 
 
 ## Closing: Den Leader Minute
 
-[Leave a Trace(https://boyscouttrail.com/content/minute/leave_a_trace-1427.asp)]
+[Leave a Trace](https://boyscouttrail.com/content/minute/leave_a_trace-1427.asp)
