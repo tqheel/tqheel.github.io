@@ -3,7 +3,9 @@ layout: post
 title: "October 7 Den Meeting: Cast Iron Chef Wrap-Up/ / Start Fitness Adventure"
 ---
 
-## Location: Virtually Over Zoom (see email for details)
+## Location: Sears Farm Road Park, Cary
+
+## Time: *6:15*
 
 ## Opening
 
@@ -31,7 +33,7 @@ Complete requirements 1-3 and at least one other.
 
 Any remaining scouts that did not present their meal planning and cooking experience may do so at this time.
 
-## Activity 3: Exercise Warm-Up (Requirement 1)
+## Activity 3: Exercise Warm-Up and Cool-Down (Requirement 1)
 
 ### Warm-Up
 
