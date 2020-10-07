@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October 7 Den Meeting: Cast Iron Chef Wrap-Up/ / Start Fitness Adventure
+title: "October 7 Den Meeting: Cast Iron Chef Wrap-Up/ / Start Fitness Adventure"
 ---
 
 ## Location: Virtually Over Zoom (see email for details)
