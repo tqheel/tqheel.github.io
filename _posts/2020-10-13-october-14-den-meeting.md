@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October 14 Den Meeting: Stronger, Faster, Higher Adventure #2
+title: "October 14 Den Meeting: Stronger, Faster, Higher Adventure #2"
 ---
 
 ## Location: Sears Farm Road Park, Cary
