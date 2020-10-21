@@ -26,18 +26,18 @@ Complete Requirements 1-3. Requirement 4 is optional.
 1. **Visit an art museum, gallery, or exhibit. Discuss with an adult the art you saw. What did you like?**
 2. **Create two self-portraits using two different techniques, such as drawing, painting, printmaking, sculpture, and computer illustration.**
 3. **Do two of the following:**
-    a. **Draw or paint an original picture outdoors, using the art materials of your choice.**
-    b. Use clay to sculpt a simple form.
-    c. Create an object using clay that can be fired, baked in the oven, or air-dried.
-    d. Create a freestanding sculpture or mobile using wood, metal, papier-mâché, or found or recycled objects.
-    e. Make a display of origami or kirigami projects.
-    f. Use a computer illustration or painting program to create a work of art.
-    g. Create an original logo or design. Transfer the design onto a T-shirt, hat, or other object.
-    h. Using a camera or other electronic device, take at least 10 photos of your family, a pet, or scenery. Use photo-editing software to crop, lighten or darken, and change some of the photos.
-    i. Create a comic strip with original characters. Include at least four panels to tell a story centered on one of the points of the Scout Law. Characters can be hand-drawn or computer-generated.
+    2a. **Draw or paint an original picture outdoors, using the art materials of your choice.**
+    2b. Use clay to sculpt a simple form.
+    2c. Create an object using clay that can be fired, baked in the oven, or air-dried.
+    2d. Create a freestanding sculpture or mobile using wood, metal, papier-mâché, or found or recycled objects.
+    2e. Make a display of origami or kirigami projects.
+    2f. Use a computer illustration or painting program to create a work of art.
+    2g. Create an original logo or design. Transfer the design onto a T-shirt, hat, or other object.
+    2h. Using a camera or other electronic device, take at least 10 photos of your family, a pet, or scenery. Use photo-editing software to crop, lighten or darken, and change some of the photos.
+    2i. Create a comic strip with original characters. Include at least four panels to tell a story centered on one of the points of the Scout Law. Characters can be hand-drawn or computer-generated.
 4. Choose one of the following methods to show your artwork:
-    a. **Create a hard-copy or digital portfolio of your projects. Share it with your family and members of your den or pack.**
-    b. Display your artwork in a pack, school, or community art show.
+    4a. **Create a hard-copy or digital portfolio of your projects. Share it with your family and members of your den or pack.**
+    4b. Display your artwork in a pack, school, or community art show.
 
 ## Activity 2: Art in Sears Farm Road Park
 
