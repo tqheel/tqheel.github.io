@@ -3,7 +3,7 @@ layout: post
 title: "Canceled: October 21 Den Meeting: Art Explosion"
 ---
 
-# Note that this meeting is canceled and will be rescheduled for another date TBD.
+## Note that this meeting is canceled and will be rescheduled for another date TBD.
 
 ## Location: Sears Farm Road Park, Cary
 
