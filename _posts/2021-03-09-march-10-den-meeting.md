@@ -27,4 +27,4 @@ Complete the following requirements
 Forming North Carolina and the Appalachian Mountains
 1. [Plate Techtonics](https://youtu.be/KB7HzF2O3Kg)
 2. [Forming North America](https://youtu.be/jzqnUvE66HA)
-3. [Glacial Action](https://youtu.be/PbYXiJsF5mw)
+3. [Glacial Action](https://youtu.be/loI584OFVpE)
