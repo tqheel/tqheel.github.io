@@ -18,7 +18,7 @@ title: "11/10/2021 Den Meeting at Bond Park"
 - Reminder: Work on Duty to God in Action with your family.
 - Popcorn BLITZ at NCSU Tailgate - 11/20 (time TBD).
 - Pack Hike at Jordan Lake - 11/21 @2pm.
-- Three additional Show & Sell events have been added. All three events will take place at On-Point in Raleigh from 10-4 over the next 2 weekends.
+- Three additional Show & Sell events have been added. All three events will take place at On-Point in Raleigh from 10-4 over the next 2 weekends. Sign-up via the Trail's End app.
 
 ## Outdoor Adventurer
 
