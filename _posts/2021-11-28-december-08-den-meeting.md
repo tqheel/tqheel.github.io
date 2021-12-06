@@ -14,6 +14,7 @@ title: "12/8/2021 Virtual Den Meeting"
 
 - Reminder: Work on Duty to God in Action with your family. Take note that there is is a requirement for showing your Duty to God for 30 days, so don't wait too long to get started.
 - Please [sign-up to bring supplies](https://www.signupgenius.com/go/5080549a5aa2aa3fb6-pack1) for our Blessings Bag service project at next week's Pack Meeting.
+- Cary Christmas Parade on 12/11.
 
 ## Outdoor Adventurer
 
