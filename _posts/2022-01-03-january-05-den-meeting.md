@@ -6,6 +6,7 @@ title: "1/5/2022 Den Meeting"
 ## Location: Bond Park Kiwanis Shelter
 
 ## Opening
+
 - What have we done to live the Scout Law since we last met?
 
 ## Talk Time
