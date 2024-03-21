@@ -4,12 +4,8 @@
 
 layout: home
 ---
-<script type="text/javascript">
-// JavaScript example
+<script type="text/javascript">alert("Hello! I am an alert box!!");</script>
 
-document.getElementById("demo").innerHTML = "Hello JavaScript!";
-</script>
-<p>okay</p>
 
 This is the temporary home for Scouts-BSA Troop 212, in Cary, NC, while our new website is under construction. 
 
