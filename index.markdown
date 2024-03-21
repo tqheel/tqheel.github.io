@@ -9,4 +9,7 @@ This is the temporary home for Scouts-BSA Troop 212, in Cary, NC, while our new 
 
 We meet on Wednesday nights at 7:30 PM, at [St. Michael the Archangel Roman Catholic Church](https://maps.app.goo.gl/SW6FWttWySoMRwZM9), 804 High House Rd, Cary, NC 27513.
 
+Calendar of events:
+<iframe src="webcal://scoutbook.scouting.org/ics/17175.5321B.ics" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 Please email the Scoutmaster, [Jim Fuller](mailto:scoutmastertroop212cary), for more information.
