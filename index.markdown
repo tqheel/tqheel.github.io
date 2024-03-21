@@ -10,14 +10,23 @@ layout: home
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/6.1.11/main.min.js'></script>
   <script>
-    $(document).ready(function() {
-      $('#calendar').fullCalendar({
-        events: 'webcals://scoutbook.scouting.org/ics/17175.5321B.ics'
-      });
-
-    });
-  </script>
-
+   document.addEventListener("DOMContentLoaded", function () {
+    var calendarEl = document.getElementById("calendar");
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+     initialView: "dayGridMonth",
+     headerToolbar: {
+      left: "prev,next today",
+      center: "title",
+      right: "dayGridMonth,timeGridWeek,timeGridDay",
+     },
+     // plugins: [DayGridPlugin, iCalendarPlugin],
+     events: {
+      url: "https://scoutbook.scouting.org/ics/17175.5321B.ics",
+      format: "ics",
+     },
+   });
+  calendar.render();
+ });
 
 This is the temporary home for Scouts-BSA Troop 212, in Cary, NC, while our new website is under construction. 
 
