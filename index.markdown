@@ -19,7 +19,6 @@ layout: home
     format: 'ics'
   }
 })
-  calendar.refetchEvents()
   calendar.render();
   calendar.refetchEvents()
 });
