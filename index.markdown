@@ -14,19 +14,13 @@ layout: home
  document.addEventListener('DOMContentLoaded', function() {
   var calendarEl = document.getElementById('calendar');
 
-  var calendar = new FullCalendar.Calendar(calendarEl, {
-    initialView: 'dayGridMonth',
-    initialDate: '2024-02-07',
-    headerToolbar: {
-      left: 'prev,next today',
-      center: 'title',
-      right: 'dayGridMonth,timeGridWeek,timeGridDay'
-    },
-    events: {
-     url: 'https://scoutbook.scouting.org/ics/17175.5321B.ics',
-     format: 'ics'
-    }
-  });
+  var calendar = new Calendar(calendarEl, {
+  plugins: [dayGridPlugin, iCalendarPlugin],
+  events: {
+    url: 'https://mywebsite/icalendar-feed.ics',
+    format: 'ics'
+  }
+})
 
   calendar.render();
 });
