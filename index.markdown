@@ -15,7 +15,7 @@ layout: home
   var calendarEl = document.getElementById('calendar');
   var calendar = new FullCalendar.Calendar(calendarEl, {
   events: {
-    url: 'https://localhost/17175.ics',
+    url: 'http://www.bsa212cary.org/17175.ics',
     format: 'ics'
   }
 })
