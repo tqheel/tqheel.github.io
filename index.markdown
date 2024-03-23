@@ -15,7 +15,8 @@ layout: home
   var calendarEl = document.getElementById('calendar');
   var calendar = new FullCalendar.Calendar(calendarEl, {
   events: {
-    url: 'https://api.scouting.org/advancements/events/calendar/17175'
+    url: '17175.ics',
+   ics
   }
 })
   calendar.render();
