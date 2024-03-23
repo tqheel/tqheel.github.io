@@ -14,7 +14,7 @@ layout: home
  document.addEventListener('DOMContentLoaded', function() {
   var calendarEl = document.getElementById('calendar');
 
-  var calendar = new Calendar(calendarEl, {
+  var calendar = new FullCalendar(calendarEl, {
   plugins: [dayGridPlugin, iCalendarPlugin],
   events: {
     url: 'https://mywebsite/icalendar-feed.ics',
