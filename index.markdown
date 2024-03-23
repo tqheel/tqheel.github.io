@@ -16,7 +16,7 @@ layout: home
   var calendar = new FullCalendar.Calendar(calendarEl, {
   events: {
     url: '17175.ics',
-   ics
+    format: 'ics'
   }
 })
   calendar.render();
