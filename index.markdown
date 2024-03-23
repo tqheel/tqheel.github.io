@@ -20,7 +20,6 @@ layout: home
   }
 })
   calendar.render();
-  calendar.refetchEvents()
 });
  </script>
 
