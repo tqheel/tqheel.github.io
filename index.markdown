@@ -22,10 +22,10 @@ layout: home
       center: 'title',
       right: 'dayGridMonth,timeGridWeek,timeGridDay'
     },
-    events: [
+    events: {
      url: 'https://scoutbook.scouting.org/ics/17175.5321B.ics',
      format: 'ics'
-    ]
+    }
   });
 
   calendar.render();
