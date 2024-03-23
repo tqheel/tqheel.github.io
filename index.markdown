@@ -11,7 +11,6 @@ layout: home
  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
  <script> var ICAL; </script>
  <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js'></script>
- # <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.11/index.global.min.js'></script>
  <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.11/index.global.min.js'></script> 
  <script>
  document.addEventListener('DOMContentLoaded', function() {
