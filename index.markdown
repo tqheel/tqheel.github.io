@@ -15,7 +15,6 @@ layout: home
   var calendarEl = document.getElementById('calendar');
 
   var calendar = new FullCalendar.Calendar(calendarEl, {
-  plugins: [iCalendarPlugin],
   events: {
     url: 'https://mywebsite/icalendar-feed.ics',
     format: 'ics'
