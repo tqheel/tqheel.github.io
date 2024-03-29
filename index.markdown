@@ -9,7 +9,7 @@ layout: home
  <script> var ICAL; </script>
  <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js'></script>
  <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.11/index.global.min.js'></script> 
- <script>
+ <!-- <script>
  document.addEventListener('DOMContentLoaded', function() {
   var calendarEl = document.getElementById('calendar');
   var calendar = new FullCalendar.Calendar(calendarEl, {
@@ -20,7 +20,7 @@ layout: home
 })
   calendar.render();
 });
- </script>
+ </script> -->
 This is the temporary home for Scouts-BSA Troop 212, in Cary, NC, while our new website is under construction. 
 
 We meet on Wednesday nights at 7:30 PM, at [St. Michael the Archangel Roman Catholic Church](https://maps.app.goo.gl/SW6FWttWySoMRwZM9), 804 High House Rd, Cary, NC 27513.
