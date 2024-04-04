@@ -4,8 +4,8 @@
 
 layout: home
 ---
- <script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js'></script>
- <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js'></script> 
+ <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script> 
  <script> var ICAL; </script>
  <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js'></script>
  <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.11/index.global.min.js'></script> 
@@ -14,8 +14,12 @@ layout: home
   var calendarEl = document.getElementById('calendar');
   var calendar = new FullCalendar.Calendar(calendarEl, {
   events: {
-    url: 'http://www.bsa212cary.org/17175.ics',
-    format: 'ics'
+    /* url: 'http://www.bsa212cary.org/17175.ics',
+     format: 'ics' */
+      id: 'a',
+      title: 'New Scout Boot Camp',
+      start: '2024-04-05',
+      end: '2024-04-06'
   }
 })
   calendar.render();
