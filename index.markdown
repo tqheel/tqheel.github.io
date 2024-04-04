@@ -19,7 +19,7 @@ layout: home
       id: 'a',
       title: 'New Scout Boot Camp',
       start: '2024-04-05',
-      end: '2024-04-06'
+      end: '2024-04-05'
   }
 })
   calendar.render();
