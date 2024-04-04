@@ -14,8 +14,6 @@ layout: home
   var calendarEl = document.getElementById('calendar');
   var calendar = new FullCalendar.Calendar(calendarEl, {
   events: {
-    /* url: 'http://www.bsa212cary.org/17175.ics',
-     format: 'ics' */
       id: 'a',
       title: 'New Scout Boot Camp',
       start: '2024-04-05',
