@@ -37,8 +37,7 @@ We meet on Wednesday nights at 7:30 PM, at [St. Michael the Archangel Roman Cath
                 </div>
             </div>
         </div>
-    </div>
-   </div>
+</div>
 </body>
 </html>
 
