@@ -1,0 +1,36 @@
+ .container .box {
+    width: 540px;
+    margin: auto;
+    width: 50%;
+    display: table;
+}
+
+.container .box-meeting {
+    width: 540px;
+    margin: auto;
+    width: 50%;
+    display: table;
+    background-color: red;
+    color: gold;
+}
+
+.container .box .box-row {
+    display: table-row;
+}
+
+.container .box .box-cell {
+    display: table-cell;
+    width: 33%;
+    padding: 10px;
+}
+
+.container .box .box-cell.box1 {
+    background-image: url("http://www.bsa212cary.org/images/shootingsports2024.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px; /* set the height of the div */
+    border:thin;
+    border:solid;
+    border-color: gold;
+    color: red;
+}
