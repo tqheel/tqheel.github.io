@@ -11,7 +11,14 @@
       document.addEventListener('DOMContentLoaded', function() {
         const calendarEl = document.getElementById('calendar')
         const calendar = new FullCalendar.Calendar(calendarEl, {
-          initialView: 'dayGridMonth'
+          initialView: 'dayGridMonth',
+          events: [
+            {
+              id: 'a',
+              title: 'my event',
+              start: '2024-04-09'
+              }
+          ]
         })
         calendar.render()
       })
