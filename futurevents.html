@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Future Events</title>
+    <script>document.write('<a href="' + document.referrer + '">Go Back</a>')</script>
+    <link rel="stylesheet" href="https://uicdn.toast.com/calendar/latest/toastui-calendar.min.css" />
+    <script src="https://uicdn.toast.com/calendar/latest/toastui-calendar.min.js"></script>
+    <script>
+      const calendar = new Calendar('#calendar', {
+  defaultView: 'week',
+  template: {
+    time(event) {
+      const { start, end, title } = event;
+
+      return `<span style="color: white;">${formatTime(start)}~${formatTime(end)} ${title}</span>`;
+    },
+    allday(event) {
+      return `<span style="color: gray;">${event.title}</span>`;
+    },
+  },
+  calendars: [
+    {
+      id: 'cal1',
+      name: 'Personal',
+      backgroundColor: '#03bd9e',
+    },
+    {
+      id: 'cal2',
+      name: 'Work',
+      backgroundColor: '#00a9ff',
+    },
+  ],
+});
+    </script>
+  </head>
+  <style>
+   
+
+ .container {
+ display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px;
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 100%;
+}
+    #scrollableTextArea { 
+      width: 300px; 
+      height: 100%; 
+      overflow-y: scroll; /* This will add a vertical scrollbar when the content overflows */ 
+    } 
+  
+  
+  </style>
+  <body>
+    <div class="container">
+      
+      <div id="calendar" style="height: 800px"></div>
+
+</div>
+    </div>
+  </body>
+</html>
