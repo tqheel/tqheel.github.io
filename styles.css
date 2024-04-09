@@ -1,123 +1,69 @@
- body {
-    color: gold;
-  }
-  
-  h2,
-  h3 {
-    letter-spacing: 0.25em;
-    text-transform: uppercase;
-    font-weight: 600;
-  }
-  
-  p {
-    line-height: 1.6em;
-  }
-  .l-content {
-    margin: 0 auto;
-  }
-  
-  .l-box {
-    padding: 0.5em 2em;
-  }
-  
-  /*
-   * -- MENU STYLES --
-   * Make the menu have a very faint box-shadow.
-   */
-  .pure-menu {
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
-  }
-  
-  .pure-menu-link {
-    padding: 0.5em 0.7em;
-  }
-  
-  /*
-   * -- BANNER --
-   * The top banner with the headings. By using a combination
-   * of `display: table;` and `display: table-cell;`, we can
-   * vertically center the text.
-   */
-  
-  .banner {
-    background: transparent
-      url("http://www.bsa212cary.org/images/Troop212_Summer2023.jpg")
-      0 0 no-repeat fixed;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.banner {
+    background-image: url("http://www.bsa212cary.org/images/Troop212_Summer2023.jpg");
+    background-size: cover;
+    background-position: center;
     text-align: center;
-    background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.bsa212cary.org/images/Troop212_Summer2023.jpg', sizingMethod='scale');
-  
-    height: 100%;
-    width: 100%;
-    margin-bottom: 3em;
-    display: table;
-  }
-  
-  .banner-head {
-    display: table-cell;
-    vertical-align: middle;
-    margin-bottom: 0;
-    font-size: 2em;
-    color: red;
-    font-weight: 500;
-    text-shadow: 0 1px 1px black;
-  }
-
-  .container .box {
-    width: 540px;
-    margin: auto;
-    width: 50%;
-    display: table;
+    padding: 3em 0;
 }
 
-.container .box-meeting {
-    width: 540px;
-    margin: auto;
-    width: 50%;
-    display: table;
-    background-color: red;
+.banner-head {
+    font-size: 3em;
+    color: red;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 2em auto;
+}
+
+.box {
+    width: 30%;
+    height: 200px;
+    margin-bottom: 2em;
+    border: 3px solid gold;
+    overflow: hidden;
+    position: relative;
     color: gold;
 }
 
-.container .box .box-row {
-    display: table-row;
+.box-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1em;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
-.container .box .box-cell {
-    display: table-cell;
-    width: 33%;
+.text {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+textarea {
+    width: 100%;
+    height: 500px;
     padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    resize: vertical;
 }
 
-.container .box .box-cell.box1 {
-    background-image: url("http://www.bsa212cary.org/images/shootingsports2024.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 200px; /* set the height of the div */
-    border:thin;
-    border:solid;
-    border-color: gold;
-    color: red;
-}
-
-.container .box .box-cell.box2 {
-    background-image: url("http://www.bsa212cary.org/images/newscouts2024.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 200px; /* set the height of the div */
-    border:thin;
-    border:solid;
-    border-color: gold;
-    color: red;
-}
-
-.container .box .box-cell.box3 {
-    background-image: url("http://www.bsa212cary.org/images/philmont2024.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 200px; /* set the height of the div */
-    border:thin;
-    border:solid;
-    border-color: gold;
-    color: red;
+/* Responsive layout */
+@media screen and (max-width: 768px) {
+    .box {
+        width: 45%;
+    }
 }
