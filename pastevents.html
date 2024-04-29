@@ -1,47 +1,45 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Past Events</title>
     <script>document.write('<a href="' + document.referrer + '">Go Back</a>')</script>
-  </head>
-  <style>
-   
+</head>
+<style>
+    .container {
+        display: grid;
+        align-items: center;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 5px;
+    }
 
- .container {
- display: grid;
- align-items: center; 
- grid-template-columns: 1fr 1fr 1fr;
- column-gap: 5px;
-}
+    img {
+        max-width: 100%;
+        max-height: 100%;
+    }
 
-img {
-  max-width: 100%;
-  max-height:100%;
-}
+    .text {
+        font-size: 100%;
+    }
 
-.text {
-  font-size: 100%;
-}
-    #scrollableTextArea { 
-      width: 300px; 
-      height: 100%; 
-      overflow-y: scroll; /* This will add a vertical scrollbar when the content overflows */ 
-    } 
-  
-  
-  </style>
-  <body>
+    #scrollableTextArea {
+        width: 300px;
+        height: 100%;
+        overflow-y: scroll;
+        /* This will add a vertical scrollbar when the content overflows */
+    }
+</style>
+
+<body>
+
     <div class="container" style="width: 100%;">
-      <div class="image">
-        <img src="/images/IMG_3572.jpg" style="max-width:100%;height:auto;">
-      </div>
-      <div class="container" style="width: 100%;">
-      <div class="image">
-        <img src="/images/camporee2024.jpg" style="max-width:100%;height:auto;">
-      </div>
-      <div class="text">
-<textarea id="scrollableTextArea" style="width:300px;height:200px">Troop 212 2024 Cardinal District Camporee Write-up
+        <div class="image">
+            <img src="/images/camporee2024.jpg" style="max-width:100%;height:auto;">
+        </div>
+        <div class="text">
+            <textarea id="scrollableTextArea"
+                style="width:300px;height:200px">Troop 212 2024 Cardinal District Camporee Write-up
 By: Vivek Chintala
 
 This year’s District Camporee started with our troop meeting up at the Bicycle Chain and going to our campsite, Magnolia, in Camp Durant. We spent the rest of the day relaxing and hanging out by the campfire before we called it a night.
@@ -51,10 +49,14 @@ We woke up early the next morning to get the Dutch ovens ready for the Mountain 
 After that, we ate quesadillas for lunch. Then, we cleaned up and got ready for our second round of activities. Before we started activities again, we all went to the trading post for some items. We did ax throwing, and also did an activity where we had to build a fire which would burn through 2 different ropes. We then split up until 4 when all activities ended. We then had pasta for dinner and we also hung out in the campsite until it was time for the campfire at 8.
 
 We started the campfire off with some skits from many troops. Members from the Order of the Arrow came and started the campfire. One member started doing a call and the others responded back with the same call. Next, there was an EPIC ceremony with the responders coming into the center of the area </textarea>
-</div>
+        </div>
     </div>
-      <div class="text">
-<textarea id="scrollableTextArea" style="width:300px;height:200px">Troop 212 2024 New Scout Boot Camp Write-up
+    <div class="container" style="width: 100%;">
+        <div class="image">
+            <img src="/images/IMG_3572.jpg" style="max-width:100%;height:auto;">
+        </div>
+        <div class="text">
+            <textarea id="scrollableTextArea" style="width:300px;height:200px">Troop 212 2024 New Scout Boot Camp Write-up
 By: Vivek Chintala
 
 This year’s Boot Camp started like every other boot camp- a bunch of new scouts at the muster eager for their first camping trip by themselves. So we all met up at the Food Line muster and drove out to Camp Campbell in Virginia to campsites 22-25. The first night we had a fire until lights out. But, then the Civil war of the Fire Monkeys began and went on for some time until there was a broken tent! Finally, they had a truce until the next day.
@@ -75,8 +77,8 @@ By the time nighttime navigation ended, the cobbler was over. So we all went bac
 
 As the sun rose on Sunday, the scouts started packing all their gear up and ate a light breakfast. After breakfast, we started to clean up and put our patrol boxes and personal gear by the trailer. Then we did some quick police lines to make sure that the campsite was clean. Lastly, before we left, we all did Roses, Buds and Thorns, where we basically told everyone what we liked about the trip, what we didn’t and what we could improve on in the future. That's all!
 </textarea>
-</div>
+        </div>
     </div>
-        
-  </body>
+
+</body>
 </html>
