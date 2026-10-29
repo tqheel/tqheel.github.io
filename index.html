@@ -1,44 +1,309 @@
-<head>
-    <link rel="stylesheet" href="/styles.css"/>
-     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-</head>
+<!DOCTYPE html>
 <html lang="en">
-<body>
-    <div class="banner">
-    <div>
-        <h1 class="banner-head">
-        <h1>
-            Troop 212 - Cary, NC
-        </h1>
-    </div>
-    <div class="container">
-        <div class="box">
-            <div class="box-row">
-                <a href="/pastevents.html"><div class="box-cell box1">
-                    Past Events   
-                </div></a>
-                <div class="box-cell box2">
-                    <a href="/aboutus.html">
-                    About Us
-                </div> 
-                <a href="/futurevents.html">
-                <div class="box-cell box3">
-                    Future Events
-                </div>
-                </a>
-                
-            </div>
-        </div>
-    </div>
-    <div>
-        <div class="container">
-            <div class="box-meeting">
-                <h3 class="banner-head">
-                <h3>We meet Wednesday nights 7:30 PM<br>St. Michael the Archangel Roman Catholic Church<br>804 High House Rd, Cary, NC 27513.</h1>
-                <h3>Please email the Scoutmaster,<a href="mailto:scoutmastertroop212cary@gmail.com">Todd Qualls</a>, for more information.</h1>
-            </div>
-        </div>
-    </div>    
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shellbark Lodge</title>
+    <style>
+      :root {
+        --bg: #0f172a;
+        --panel: rgba(15, 23, 42, 0.78);
+        --panel-border: rgba(255, 255, 255, 0.18);
+        --text: #f8fafc;
+        --muted: #dbe4f0;
+        --accent: #d4af37;
+        --accent-strong: #b68a00;
+        --danger: #ef4444;
+        --success: #22c55e;
+      }
 
+      * { box-sizing: border-box; }
+
+      html, body {
+        margin: 0;
+        padding: 0;
+        min-height: 100%;
+        font-family: Arial, Helvetica, sans-serif;
+        background: #0b1220;
+        color: var(--text);
+      }
+
+      body {
+        background:
+          linear-gradient(rgba(10, 14, 22, 0.68), rgba(10, 14, 22, 0.82)),
+          url("https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=80") center/cover no-repeat fixed;
+      }
+
+      .page {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 40px 20px;
+      }
+
+      .hero {
+        width: min(1200px, 100%);
+        display: grid;
+        grid-template-columns: 1.3fr 0.7fr;
+        gap: 32px;
+        align-items: center;
+        background: rgba(15, 23, 42, 0.36);
+        border: 1px solid var(--panel-border);
+        border-radius: 22px;
+        padding: 36px;
+        backdrop-filter: blur(8px);
+        box-shadow: 0 24px 60px rgba(0,0,0,0.24);
+      }
+
+      .content { padding: 12px; }
+
+      .eyebrow {
+        display: inline-block;
+        padding: 8px 12px;
+        border-radius: 999px;
+        background: rgba(212, 175, 55, 0.15);
+        color: var(--accent);
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        font-size: 11px;
+        font-weight: 700;
+      }
+
+      h1 {
+        font-size: clamp(2.5rem, 4vw, 5rem);
+        line-height: 0.95;
+        margin: 18px 0 18px;
+        letter-spacing: -0.04em;
+      }
+
+      .lead {
+        color: var(--muted);
+        font-size: 1.08rem;
+        line-height: 1.7;
+        max-width: 620px;
+      }
+
+      .stats {
+        display: flex;
+        gap: 16px;
+        margin-top: 28px;
+        flex-wrap: wrap;
+      }
+
+      .stat {
+        min-width: 120px;
+        padding: 14px 18px;
+        background: rgba(255,255,255,0.04);
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 14px;
+      }
+
+      .stat strong {
+        display: block;
+        font-size: 1.5rem;
+        color: var(--accent);
+      }
+
+      .stat span {
+        color: var(--muted);
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+      }
+
+      .login-panel {
+        background: var(--panel);
+        border: 1px solid var(--panel-border);
+        border-radius: 18px;
+        padding: 26px 22px;
+      }
+
+      .login-panel h2 {
+        margin: 0 0 8px;
+        font-size: 1.9rem;
+      }
+
+      .login-panel p {
+        margin: 0 0 20px;
+        color: var(--muted);
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        gap: 14px;
+      }
+
+      label {
+        display: block;
+        font-size: 0.8rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--muted);
+        margin-bottom: 6px;
+      }
+
+      input {
+        width: 100%;
+        border: 1px solid rgba(255,255,255,0.12);
+        background: rgba(15, 23, 42, 0.8);
+        color: var(--text);
+        border-radius: 12px;
+        padding: 14px 14px;
+        font-size: 1rem;
+        outline: none;
+      }
+
+      input:focus {
+        border-color: var(--accent);
+        box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.18);
+      }
+
+      .row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        font-size: 0.9rem;
+        color: var(--muted);
+        margin-top: 4px;
+      }
+
+      .checkbox { display: flex; align-items: center; gap: 8px; }
+      .checkbox input { width: auto; margin: 0; }
+
+      a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+
+      .btn {
+        appearance: none;
+        border: none;
+        background: linear-gradient(135deg, var(--accent), var(--accent-strong));
+        color: #1a1a1a;
+        border-radius: 12px;
+        padding: 15px 18px;
+        font-size: 1rem;
+        font-weight: 800;
+        cursor: pointer;
+        transition: transform 0.18s ease, box-shadow 0.18s ease;
+        box-shadow: 0 10px 26px rgba(212, 175, 55, 0.28);
+      }
+
+      .btn:hover { transform: translateY(-1px); }
+
+      .status {
+        min-height: 22px;
+        margin-top: 4px;
+        font-size: 0.92rem;
+        color: var(--muted);
+      }
+
+      .status.error { color: var(--danger); }
+      .status.success { color: var(--success); }
+
+      @media (max-width: 900px) {
+        .hero { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <main class="hero">
+        <section class="content">
+          <div class="eyebrow">Established in the 1930s</div>
+          <h1>Shellbark Lodge</h1>
+          <p class="lead">
+            Founded in the 1930s, Shellbark Lodge has long been a center of fellowship,
+            leadership, and service. With 22 active members, we carry on a proud tradition
+            of brotherhood, outdoor adventure, and dedication to our community. Beyond
+            fellowship, we are rooted in the traditions of hunting, fishing, and other
+            outdoor adventures in the rural Pennsylvania woods.
+          </p>
+
+          <div class="stats">
+            <div class="stat">
+              <strong>22</strong>
+              <span>Members</span>
+            </div>
+            <div class="stat">
+              <strong>1930s</strong>
+              <span>Founded</span>
+            </div>
+            <div class="stat">
+              <strong>Outdoor</strong>
+              <span>Tradition</span>
+            </div>
+          </div>
+        </section>
+
+        <aside class="login-panel">
+          <h2>Member Sign In</h2>
+          <p>Access your lodge account.</p>
+
+          <form id="loginForm" novalidate>
+            <div>
+              <label for="email">Email</label>
+              <input id="email" name="email" type="email" placeholder="you@example.com" required />
+            </div>
+
+            <div>
+              <label for="password">Password</label>
+              <input id="password" name="password" type="password" placeholder="••••••••" required />
+            </div>
+
+            <div class="row">
+              <label class="checkbox">
+                <input type="checkbox" name="remember" />
+                <span>Remember me</span>
+              </label>
+
+              <a href="#">Need help?</a>
+            </div>
+
+            <button class="btn" type="submit">Log in</button>
+
+            <div id="status" class="status" aria-live="polite"></div>
+          </form>
+        </aside>
+      </main>
+    </div>
+
+    <script>
+      const form = document.getElementById("loginForm");
+      const statusEl = document.getElementById("status");
+
+      form.addEventListener("submit", function (event) {
+        event.preventDefault();
+
+        const email = document.getElementById("email").value.trim();
+        const password = document.getElementById("password").value;
+
+        if (!email || !password) {
+          statusEl.textContent = "Please enter both email and password.";
+          statusEl.className = "status error";
+          return;
+        }
+
+        const demoUser = "member@shellbarklodge.org";
+        const demoPassword = "password123";
+
+        if (email.toLowerCase() === demoUser && password === demoPassword) {
+          statusEl.textContent = "Login successful. Redirecting...";
+          statusEl.className = "status success";
+
+          localStorage.setItem("shellbarkUser", JSON.stringify({ email }));
+          setTimeout(() => {
+            window.location.href = "/dashboard.html";
+          }, 800);
+        } else {
+          statusEl.textContent = "Invalid email or password.";
+          statusEl.className = "status error";
+        }
+      });
+    </script>
+  </body>
 </html>
